@@ -1,0 +1,21 @@
+body {
+  padding: 75px;
+  font: 16px "Calibri", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: forestgreen;
+}
+
+.delete-form {
+  display: inline-block;
+  margin-right: 15px;
+}
+	
+.delete-form button {
+  color: orangered;
+}
+	
+li {
+  list-style: none;
+}
